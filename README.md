@@ -124,7 +124,7 @@ plt.figure() · plt.tight_layout() · plt.ylim()
 
 ## About This Project
 
-Part of my analytics portfolio built during the final trimester of my Master's in Business Analytics. Built from scratch — every line of code written and understood, not copied from tutorials.
+Part of my analytics portfolio built during the final trimester of my Master's in Business Analytics. Built from scratch - every line of code written and understood.
 
 This is Project 2 of 3. Project 1 covered SQL-based customer behaviour analysis on 780,000+ e-commerce transactions.
 
